@@ -1,5 +1,5 @@
 def word_substituter(tweet_one)
-splitted = tweet_one.split(",")
-combined = splitted.to_a
-puts combined
+  tweet_one.each do |words|
+
+  end
 end
