@@ -21,3 +21,4 @@ def word_substituter(tweet_one)
     end
   end.join(" ")
 end
+word_substituter(tweet_one)
